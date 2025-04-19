@@ -1,0 +1,11 @@
+{
+    "name": "yacoubacamara/emaily",
+    "authors": [
+        {
+            "name": "Yacouba Camara"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
