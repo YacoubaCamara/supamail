@@ -2,7 +2,7 @@ Application name: SupaMail
 Description: This is an email app. There are 3 main features included
     1- Sending Emails
     2- Seeing Emails you sent
-    3- Seeing Emails you have sent
+    3- Seeing Emails you have received
 
 To set the app up, put the folder into htdocs if you're using XAMPP. You'll be redirected on the homepage where you can navigate the app from.
 
